@@ -38,7 +38,7 @@ This project uses the Breast Cancer Wisconsin Diagnostic dataset from the UCI Ma
 bash
 Copy
 Edit
-git clone https://github.com/your-username/cancer-prediction-python.git
+git clone https://github.com/bodapati-praveen/Praveen-Kumar
 cd cancer-prediction-python
 pip install -r requirements.txt
 🧪 Run the Project
